@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+---
+
+<BaseLayout
+  title="Klinika implantologii Opole — Mikrostomart, premium standard"
+  description="Klinika implantologii w Opolu — Mikrostomart, ul. Centralna 33a. Pełen sprzęt premium (CBCT, mikroskop ZEISS, cyfrowe planowanie), system Straumann i Nobel Biocare, dr Marcin Nowosielski M.Sc. RWTH Aachen."
+>
+  <div class="container content">
+    <nav class="breadcrumbs"><a href="/">Start</a> · <span>Klinika implantologii</span></nav>
+
+    <header>
+      <p class="eyebrow">Klinika · Opole · Premium</p>
+      <h1>Klinika implantologii Opole — Mikrostomart</h1>
+      <p class="lead">
+        <strong>Mikrostomart</strong> — klinika implantologii premium w Opolu (ul. Centralna 33a).
+        Pełen zakres implantologii cyfrowej: pojedyncze implanty Straumann/Nobel Biocare,
+        all-on-4, all-on-6, sinus lift, augmentacja kości. Prowadzona przez
+        <strong>{site.author.honorificPrefix} {site.author.name}, {site.author.honorificSuffix} RWTH Aachen</strong>
+        — drugiego w Polsce z tytułem M.Sc. in Lasers in Dentistry.
+      </p>
+    </header>
+
+    <section>
+      <h2>Lokalizacja</h2>
+      <address>
+        <strong>Mikrostomart</strong><br />
+        {site.clinic.address.street}<br />
+        {site.clinic.address.postalCode} {site.clinic.address.city}<br />
+        Telefon: <a href={site.clinic.phoneHref}>{site.clinic.phone}</a><br />
+        Email: <a href={`mailto:${site.clinic.email}`}>{site.clinic.email}</a><br />
+        <a href={site.clinic.gbpUrl} rel="noopener" target="_blank">📍 Zobacz na Google Maps</a>
+      </address>
+
+      <h3>Godziny otwarcia</h3>
+      <ul>
+        <li>Poniedziałek-czwartek: 9:00-20:00</li>
+        <li>Piątek: 9:00-16:00</li>
+        <li>Sobota: wybrane sloty (po wcześniejszym umówieniu)</li>
+        <li>Niedziela: zamknięte</li>
+      </ul>
+
+      <h3>Dojazd i parking</h3>
+      <ul>
+        <li><strong>Komunikacja miejska:</strong> autobusy MZK przez centrum Opola</li>
+        <li><strong>Parking:</strong> Galeria Solaris obok (duży, darmowy)</li>
+        <li><strong>Centrum miasta:</strong> łatwy dojazd z każdej dzielnicy</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Sprzęt premium</h2>
+
+      <h3>Diagnostyka</h3>
+      <ul>
+        <li><strong>CBCT (Cone Beam CT)</strong> — własne w gabinecie, pełna ocena 3D kości przed implantacją</li>
+        <li><strong>Skaner wewnątrzustny Trios</strong> (3Shape) — cyfrowe wyciski, eliminacja klasycznych "rozdętych" wycisków</li>
+        <li><strong>Pantomogram</strong> — RTG panoramiczne</li>
+        <li><strong>Fotografia kliniczna</strong> — lustrzanka DSLR + flashe boczne</li>
+      </ul>
+
+      <h3>Implantologia chirurgiczna</h3>
+      <ul>
+        <li><strong>System Straumann</strong> (BLT, BLX, Roxolid Ti-Zr, powierzchnia SLActive)</li>
+        <li><strong>System Nobel Biocare</strong> (All-on-4 oryginalna licencja Malo)</li>
+        <li><strong>Szablony chirurgiczne 3D</strong> drukowane in-house lub w partnerskiej drukarni 3D</li>
+        <li><strong>Software:</strong> coDiagnostiX (Straumann), NobelClinician (Nobel)</li>
+      </ul>
+
+      <h3>Zabiegi towarzyszące</h3>
+      <ul>
+        <li><strong>PRF (osocze bogatopłytkowe)</strong> z własnej krwi pacjenta — przyspieszone gojenie</li>
+        <li><strong>Materiały augmentacyjne Bio-Oss + Bio-Gide</strong> (Geistlich, premium)</li>
+        <li><strong>Laser Fotona Er:YAG/Nd:YAG</strong> — chirurgia tkanek miękkich, dekontaminacja</li>
+        <li><strong>The Wand</strong> — komputerowe znieczulenie (komfort pacjenta)</li>
+        <li><strong>Sedacja wziewna podtlenkiem azotu</strong> dla lękliwych pacjentów</li>
+        <li><strong>Mikroskop operacyjny ZEISS OPMI Pro</strong> — dla precyzji preparacji</li>
+      </ul>
+
+      <h3>Protetyka</h3>
+      <ul>
+        <li><strong>Współpraca z premium pracownią CAD/CAM</strong></li>
+        <li><strong>Cyrkon Zirkonzahn / IPS e.max ZirCAD</strong> — najwyższa estetyka</li>
+        <li><strong>Frezowanie 5-osiowe</strong> dla precyzyjnych koron</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Specjalizacja dr Marcina Nowosielskiego</h2>
+
+      <h3>Kwalifikacje</h3>
+      <ul>
+        <li><strong>Lekarz dentysta</strong> — Uniwersytet Medyczny we Wrocławiu (2007-2013)</li>
+        <li><strong>M.Sc. RWTH Aachen</strong> in Lasers in Dentistry (2018-2021, z wyróżnieniem) — drugi w Polsce z tym tytułem</li>
+        <li><strong>Curriculum implantologii</strong> + szkolenia Straumann + Nobel Biocare</li>
+        <li><strong>Aktywne członkostwo:</strong> PTE, ESE, PSL, Opolska Izba Lekarska</li>
+      </ul>
+
+      <h3>Doświadczenie</h3>
+      <ul>
+        <li>15+ lat praktyki implantologicznej</li>
+        <li>500+ implantów rocznie</li>
+        <li>50+ all-on-4 rocznie</li>
+        <li>Wykładowca <strong>LA&HA Symposium</strong> (Słowenia 2019, 2023; Polska 2022)</li>
+        <li>Wykładowca jubileuszu 20-lecia <strong>PTE</strong></li>
+      </ul>
+
+      <h3>Publikacje</h3>
+      <ul>
+        <li>Książka <strong>„Własny gabinet"</strong> (Wydawnictwo Czelej 2024)</li>
+        <li>4 publikacje w Magazynie Stomatologicznym</li>
+        <li>Publikacje LA&HA Symposium Proceedings</li>
+      </ul>
+
+      <p>
+        Pełna biografia: <a href="/o-autorze">O autorze →</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>Zakres usług implantologicznych</h2>
+      <ul>
+        <li><a href="/implanty-zebowe-opole">Implanty zębowe pojedyncze</a> (Straumann, Nobel)</li>
+        <li><a href="/all-on-4-opole">All-on-4</a> (Nobel Biocare oryginalna licencja)</li>
+        <li><a href="/all-on-6-opole">All-on-6</a> (premium stabilność)</li>
+        <li><a href="/sinus-lift-opole">Sinus lift</a> (zamknięty + otwarty)</li>
+        <li><strong>Augmentacja kości</strong> (Bio-Oss + auto-graft)</li>
+        <li><strong>Implant natychmiastowy</strong> (po ekstrakcji w jednej wizycie)</li>
+        <li><strong>Implanty zygomatyczne</strong> (kierowanie do partnerów Wrocław/Warszawa)</li>
+        <li><strong>Apicoektomia z asystą lasera</strong></li>
+        <li><strong>Leczenie periimplantitis</strong> (laserem Er:YAG/Nd:YAG)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Standardy premium</h2>
+      <ul>
+        <li><strong>CBCT obowiązkowo</strong> przed każdym implantem</li>
+        <li><strong>Cyfrowe planowanie</strong> z szablonem chirurgicznym 3D</li>
+        <li><strong>Pełen pisemny plan leczenia</strong> z 2-3 wariantami i cennikiem</li>
+        <li><strong>Kontrole pozabiegowe</strong> w cenie pakietu pierwszego roku</li>
+        <li><strong>Gwarancja 10 lat</strong> na implanty Straumann</li>
+        <li><strong>Telefon awaryjny 24/7</strong> w pierwszym tygodniu po implantacji</li>
+        <li><strong>Autoklaw klasy B</strong> + kontrola biologiczna sterylizacji co tydzień</li>
+        <li><strong>Pełna fotodokumentacja</strong> dla pacjenta</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Dla pacjentów z DACH (Niemcy, Austria, Szwajcaria)</h2>
+      <p>
+        Dr Marcin Nowosielski mówi <strong>biegle po niemiecku</strong> (M.Sc. RWTH Aachen).
+        Klinika obsługuje pacjentów z DACH w ramach dental tourism — premium standard
+        polski w cenie <strong>50-70% niższej niż w Niemczech</strong>.
+      </p>
+      <ul>
+        <li>Konsultacja w języku niemieckim</li>
+        <li>Pakiet "Implant + Hotel + Transfer"</li>
+        <li>Faktury w PL/EN/DE</li>
+        <li>Telekonsultacje pozabiegowe</li>
+      </ul>
+    </section>
+
+    <section class="cta-box">
+      <h2>Umów konsultację implantologiczną</h2>
+      <p>
+        Pierwsza konsultacja w klinice <strong>Mikrostomart Opole</strong> obejmuje:
+      </p>
+      <ul>
+        <li>Pełen wywiad i badanie</li>
+        <li>CBCT 3D obu szczęk</li>
+        <li>Plan leczenia na piśmie z cennikiem (2-3 warianty)</li>
+        <li>Bez presji decyzji w gabinecie</li>
+      </ul>
+      <p>
+        <a class="btn-primary" href={site.clinic.bookingUrl} rel="noopener">Umów konsultację →</a>
+        &nbsp;
+        <a class="btn-outline" href={`tel:${site.clinic.phone.replace(/\s/g, '')}`}>Zadzwoń: {site.clinic.phone}</a>
+      </p>
+    </section>
+
+    <hr />
+
+    <p class="disclaimer-inline">
+      <strong>Disclaimer:</strong> Treści edukacyjne. Każdy plan leczenia indywidualny po CBCT i konsultacji.
+    </p>
+  </div>
+</BaseLayout>
+
+<style>
+  .content { max-width: 56rem; }
+  .breadcrumbs { font-size: 0.875rem; color: var(--color-muted); margin-bottom: 1.5rem; }
+  .breadcrumbs a { text-decoration: none; }
+  header { margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--color-border); }
+  .eyebrow { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.75rem; color: var(--color-accent-dark); font-weight: 700; margin: 0 0 0.5rem; }
+  .lead { font-size: 1.125rem; color: var(--color-muted); }
+  section { margin-bottom: 2.5rem; }
+  address { font-style: normal; line-height: 1.8; }
+  .cta-box { background: var(--color-card); padding: 2rem; border-radius: 8px; border-left: 4px solid var(--color-accent); margin: 3rem 0 2rem; }
+  .cta-box h2 { margin-top: 0; }
+  .disclaimer-inline { font-size: 0.8125rem; color: var(--color-muted); border-left: 3px solid var(--color-border); padding-left: 1rem; margin-top: 2rem; }
+  hr { border: none; border-top: 1px solid var(--color-border); margin: 2rem 0; }
+</style>

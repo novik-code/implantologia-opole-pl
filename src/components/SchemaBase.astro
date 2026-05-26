@@ -1,0 +1,141 @@
+---
+import { site } from '../data/site';
+
+// Schema bazowe dla całej strony — Physician + WebSite + Dentist (klinika)
+// Marcin jako Physician (kanoniczny @id na nowosielski.pl/#person — wspólny dla wszystkich filarów)
+// Strona jako WebSite z autorem Marcin
+// Mikrostomart jako Dentist/LocalBusiness — miejsce gdzie Marcin przyjmuje
+
+const physicianSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Physician',
+  '@id': site.author.canonicalId,
+  name: site.author.name,
+  honorificPrefix: site.author.honorificPrefix,
+  honorificSuffix: site.author.honorificSuffix,
+  jobTitle: site.author.jobTitle,
+  url: site.author.canonicalUrl,
+  sameAs: [
+    site.author.canonicalUrl,
+    'https://implant.opole.pl/o-autorze',
+    'https://endodoncjamikroskopowa.pl/o-autorze',
+    'https://www.mikrostomart.pl/zespol/marcin-nowosielski',
+    'https://www.youtube.com/c/DentistMarcIn',
+    'https://www.facebook.com/marcindentist',
+    'https://www.instagram.com/nowosielski_marcin/',
+    'https://czelej.com.pl/sklep/wlasny-gabinet-poradnik/',
+  ],
+  medicalSpecialty: 'https://schema.org/Dentistry',
+  knowsAbout: [
+    'Implantologia stomatologiczna',
+    'Implanty zębów',
+    'All-on-4',
+    'All-on-6',
+    'Sinus lift',
+    'Periimplantitis',
+    'Implanty natychmiastowe',
+    'Endodoncja mikroskopowa',
+    'Stomatologia estetyczna',
+    'Chirurgia stomatologiczna',
+  ],
+  knowsLanguage: ['pl', 'en', 'de'],
+  workLocation: {
+    '@type': 'Dentist',
+    '@id': 'https://mikrostomart.pl/#dentist',
+    name: site.clinic.name,
+    url: site.clinic.url,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: site.clinic.address.street,
+      addressLocality: site.clinic.address.city,
+      postalCode: site.clinic.address.postalCode,
+      addressRegion: site.clinic.address.region,
+      addressCountry: site.clinic.address.country,
+    },
+  },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${site.url}/#website`,
+  url: site.url,
+  name: site.shortTitle,
+  description: site.description,
+  inLanguage: 'pl-PL',
+  about: {
+    '@type': 'MedicalSpecialty',
+    name: 'Implantologia stomatologiczna',
+  },
+  author: { '@id': site.author.canonicalId },
+  publisher: { '@id': site.author.canonicalId },
+};
+
+// Klinika Mikrostomart — Dentist/LocalBusiness z geo, dla lokalnego SEO
+// Pełne dane: telefon, godziny, sameAs, hasMap — silne sygnały Local SEO
+const dentistSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Dentist',
+  '@id': 'https://mikrostomart.pl/#dentist',
+  name: site.clinic.name,
+  legalName: site.clinic.legalName,
+  url: site.clinic.url,
+  image: 'https://mikrostomart.pl/og-image.jpg',
+  priceRange: '$$$',
+  telephone: site.clinic.phone,
+  email: site.clinic.email,
+  medicalSpecialty: 'https://schema.org/Dentistry',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: site.clinic.address.street,
+    addressLocality: site.clinic.address.city,
+    postalCode: site.clinic.address.postalCode,
+    addressRegion: site.clinic.address.region,
+    addressCountry: site.clinic.address.country,
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: site.clinic.geo.latitude,
+    longitude: site.clinic.geo.longitude,
+  },
+  hasMap: site.clinic.gbpUrl,
+  openingHoursSpecification: site.clinic.openingHours.map((h) => ({
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: `https://schema.org/${h.day}`,
+    opens: h.opens,
+    closes: h.closes,
+  })),
+  areaServed: [
+    { '@type': 'City', name: 'Opole' },
+    { '@type': 'AdministrativeArea', name: 'województwo opolskie' },
+    { '@type': 'City', name: 'Chmielowice' },
+    { '@type': 'City', name: 'Komprachcice' },
+    { '@type': 'City', name: 'Dobrzeń Wielki' },
+    { '@type': 'City', name: 'Tarnów Opolski' },
+    { '@type': 'City', name: 'Prószków' },
+    { '@type': 'City', name: 'Niemodlin' },
+  ],
+  availableService: [
+    { '@type': 'MedicalProcedure', name: 'Implantacja zębów (Straumann, Nobel Biocare)' },
+    { '@type': 'MedicalProcedure', name: 'All-on-4 / All-on-6' },
+    { '@type': 'MedicalProcedure', name: 'Sinus lift' },
+    { '@type': 'MedicalProcedure', name: 'Augmentacja kości' },
+    { '@type': 'MedicalProcedure', name: 'Endodoncja mikroskopowa' },
+    { '@type': 'MedicalProcedure', name: 'Reendodoncja' },
+    { '@type': 'MedicalProcedure', name: 'Apicoektomia' },
+    { '@type': 'MedicalProcedure', name: 'Korony cyrkonowe' },
+    { '@type': 'MedicalProcedure', name: 'Licówki porcelanowe' },
+    { '@type': 'MedicalProcedure', name: 'Wybielanie zębów ZOOM' },
+    { '@type': 'MedicalProcedure', name: 'Chirurgia stomatologiczna' },
+    { '@type': 'MedicalProcedure', name: 'Sedacja stomatologiczna' },
+  ],
+  paymentAccepted: ['Cash', 'Credit Card', 'Debit Card', 'NFC Mobile Payment'],
+  currenciesAccepted: 'PLN',
+  employee: { '@id': site.author.canonicalId },
+  sameAs: site.clinic.sameAs,
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(physicianSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(dentistSchema)} />

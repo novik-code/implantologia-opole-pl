@@ -1,0 +1,164 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+---
+
+<BaseLayout
+  title="O autorze — dr Marcin Nowosielski, M.Sc. RWTH Aachen, implantolog Opole"
+  description="Autor treści: lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen (z wyróżnieniem 2021, drugi w Polsce z tym tytułem). Implantolog i stomatolog w klinice Mikrostomart Opole. Wykładowca LA&HA, autor książki Własny gabinet (Czelej 2024)."
+>
+  <article class="container content">
+    <header>
+      <p class="eyebrow">Autor wszystkich treści</p>
+      <h1>{site.author.honorificPrefix} {site.author.name}, {site.author.honorificSuffix}</h1>
+      <p class="lead">
+        Lekarz dentysta, implantolog, <strong>M.Sc. RWTH Aachen</strong>
+        (z wyróżnieniem 2021) — drugi w Polsce z tym tytułem. Specjalizuje się w
+        implantologii cyfrowej, endodoncji mikroskopowej i stomatologii laserowej.
+        Prowadzi klinikę <a href={site.clinic.url} rel="noopener">Mikrostomart</a>
+        w Opolu.
+      </p>
+    </header>
+
+    <section>
+      <h2>Kwalifikacje formalne</h2>
+      <ul>
+        <li><strong>2007–2013</strong> — Studia lekarsko-dentystyczne, Uniwersytet Medyczny we Wrocławiu</li>
+        <li><strong>2013</strong> — Członek Opolskiej Izby Lekarskiej, prawo wykonywania zawodu</li>
+        <li><strong>2015</strong> — Członek PTE (Polskie Towarzystwo Endodontyczne) i ESE (European Society of Endodontology)</li>
+        <li><strong>2017</strong> — Członek PTSL i absolwent Oral Surgery Academy</li>
+        <li><strong>2018–2021</strong> — Master of Science in Lasers in Dentistry, RWTH Aachen University (z wyróżnieniem) — drugi w Polsce z tym tytułem</li>
+        <li><strong>2020+</strong> — Aktywne członkostwo PSI (Polskie Stowarzyszenie Implantologiczne)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Zakres praktyki</h2>
+      <ul>
+        <li><strong>Implantologia</strong> — implanty pojedyncze (Straumann, Nobel Biocare), all-on-4, all-on-6, implanty natychmiastowe, sinus lift, augmentacja kości, regeneracja sterowana (GBR)</li>
+        <li><strong>Endodoncja mikroskopowa</strong> — leczenie kanałowe pod mikroskopem ZEISS, reendodoncja, usuwanie złamanych narzędzi, naprawa perforacji, apicoektomia (osobny serwis: <a href="https://endodoncjamikroskopowa.pl" rel="noopener">endodoncjamikroskopowa.pl</a>)</li>
+        <li><strong>Stomatologia laserowa</strong> — Er:YAG i Nd:YAG (Fotona LightWalker) w chirurgii, dekontaminacji kanałów (PIPS/SWEEPS), zabiegach estetycznych</li>
+        <li><strong>Chirurgia stomatologiczna</strong> — ekstrakcje skomplikowane, ósemki, torbiele</li>
+        <li><strong>Stomatologia estetyczna</strong> — licówki, wybielanie, korekta uśmiechu</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Publikacje</h2>
+      <ul>
+        <li>
+          <strong>„Własny gabinet — poradnik dla lekarzy dentystów"</strong>
+          (Wydawnictwo Czelej 2024, 276 stron, 30 rozdziałów, ISBN 978-83-7563-319-1).
+          Pierwsza w Polsce kompleksowa publikacja o zarządzaniu praktyką dentystyczną.
+        </li>
+        <li>
+          <strong>4 publikacje w Magazynie Stomatologicznym</strong> (2020–2021) —
+          opisy przypadków endodoncji mikroskopowej, chirurgii apikalnej i leczenia
+          laserowego
+        </li>
+        <li>
+          <strong>LA&amp;HA Symposium 2019 Proceedings</strong>
+          (Słowenia, współautor: Marques &amp; Nowosielski)
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Wykłady i konferencje</h2>
+      <ul>
+        <li><strong>2024+:</strong> Wykładowca jubileuszu 20-lecia PTE</li>
+        <li>
+          <strong>2023</strong> — LA&amp;HA Symposium, Słowenia:
+          <em>„Er:YAG and Nd:YAG Assisted Apical Endodontic Microsurgery Protocol"</em>
+        </li>
+        <li>
+          <strong>2022</strong> — Keynote LA&amp;HA Poland:
+          <em>„Od korzenia do korony — kompleksowe laserowe leczenie zębów"</em>
+        </li>
+        <li>
+          <strong>2019</strong> — LA&amp;HA Symposium, Słowenia:
+          <em>„Star Wars in my Dental Office?"</em>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Klinika Mikrostomart Opole</h2>
+      <p>
+        Klinika <strong>Mikrostomart</strong> w Opolu (ul. {site.clinic.address.street},
+        {site.clinic.address.postalCode} {site.clinic.address.city}) to gabinet premium
+        stomatologii — w ofercie pełen zakres implantologii, endodoncji mikroskopowej,
+        protetyki, chirurgii i stomatologii estetycznej.
+      </p>
+      <p>
+        Wyposażenie kliniki:
+      </p>
+      <ul>
+        <li>Mikroskop operacyjny ZEISS OPMI Pro</li>
+        <li>CBCT (tomografia 3D)</li>
+        <li>Laser Fotona LightWalker (Er:YAG + Nd:YAG)</li>
+        <li>Scanner wewnątrzustny dla cyfrowych wycisków</li>
+        <li>Komputerowe znieczulenie The Wand (STA)</li>
+        <li>System implantów Straumann (powierzchnia SLActive)</li>
+      </ul>
+      <p>
+        <a class="btn-primary" href={site.clinic.bookingUrl} rel="noopener">Umów konsultację w Mikrostomart →</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>Filozofia pracy</h2>
+      <blockquote>
+        „Wierzę, że precyzja to klucz do trwałości. Dlatego w mojej pracy
+        mikroskop, CBCT i cyfrowe planowanie nie są dodatkiem — są standardem.
+        Pacjent ma prawo wiedzieć dokładnie, co się dzieje z jego zębem, jakie
+        są alternatywy i jakie ryzyko. Premium stomatologia to nie tylko sprzęt —
+        to transparentność, edukacja i odpowiedzialność."
+      </blockquote>
+    </section>
+
+    <section>
+      <h2>W innych mediach</h2>
+      <ul>
+        <li><strong>Blog osobisty:</strong> <a href={site.author.canonicalUrl} rel="noopener">nowosielski.pl</a> — dłuższe artykuły, case studies, refleksje</li>
+        <li><strong>Endodoncja mikroskopowa:</strong> <a href="https://endodoncjamikroskopowa.pl" rel="noopener">endodoncjamikroskopowa.pl</a> — osobny serwis ekspercki</li>
+        <li><strong>Strona w klinice:</strong> <a href="https://www.mikrostomart.pl/zespol/marcin-nowosielski" rel="noopener">mikrostomart.pl/zespol/marcin-nowosielski</a></li>
+        <li><strong>YouTube:</strong> <a href="https://www.youtube.com/c/DentistMarcIn" rel="noopener">@DentistMarcIn</a></li>
+        <li><strong>Instagram:</strong> <a href="https://www.instagram.com/nowosielski_marcin/" rel="noopener">@nowosielski_marcin</a></li>
+        <li><strong>Facebook:</strong> <a href="https://www.facebook.com/marcindentist" rel="noopener">@marcindentist</a></li>
+      </ul>
+    </section>
+
+    <aside class="cta-inline">
+      <h2>Konsultacja implantologiczna</h2>
+      <p>
+        Planujesz uzupełnienie braku zęba implantem? Masz periimplantitis i szukasz
+        drugiej opinii? <strong>Konsultację umówisz w klinice Mikrostomart w Opolu</strong>
+        — pełna ocena z CBCT, plan leczenia z wariantami i cennikiem. Przyjmuję
+        pacjentów z całej Polski oraz z Niemiec, Austrii, Czech, Ukrainy.
+        Mówię po polsku, angielsku, niemiecku.
+      </p>
+      <a class="btn-primary" href={site.clinic.bookingUrl} rel="noopener">Umów konsultację →</a>
+    </aside>
+  </article>
+</BaseLayout>
+
+<style>
+  .content { max-width: 56rem; }
+  .content header { margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 1px solid var(--color-border); }
+  .lead { font-size: 1.1875rem; color: var(--color-muted); }
+  .eyebrow { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.75rem; color: var(--color-accent-dark); margin: 0 0 0.5rem; font-weight: 700; }
+  section { margin: 3rem 0; }
+  blockquote {
+    margin: 1.5rem 0;
+    padding: 1.5rem 2rem;
+    background: var(--color-card);
+    border-left: 4px solid var(--color-accent);
+    font-style: italic;
+    font-size: 1.125rem;
+    color: var(--color-primary);
+  }
+  .cta-inline { background: var(--color-primary); color: white; padding: 2.5rem 2rem; border-radius: 8px; margin-top: 4rem; }
+  .cta-inline h2 { color: var(--color-accent); margin-top: 0; }
+  .cta-inline p { color: #d4ddd6; }
+</style>

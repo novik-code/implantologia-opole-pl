@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://implantologia.opole.pl/sitemap-index.xml

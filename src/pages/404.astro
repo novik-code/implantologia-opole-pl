@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Strona nie znaleziona" description="404 — strona nie istnieje na implantologia.opole.pl" noindex={true}>
+  <div class="container error-page">
+    <p class="big-number">404</p>
+    <h1>Strona nie istnieje</h1>
+    <p class="lead">
+      Adres, który wpisałeś, nie prowadzi do żadnej strony. Spróbuj jednej z poniższych:
+    </p>
+    <ul class="nav-suggestions">
+      <li><a href="/">Strona główna</a></li>
+      <li><a href="/implanty-zebowe-opole">Implanty zębowe Opole</a></li>
+      <li><a href="/all-on-4-opole">All-on-4 Opole</a></li>
+      <li><a href="/all-on-6-opole">All-on-6 Opole</a></li>
+      <li><a href="/sinus-lift-opole">Sinus lift Opole</a></li>
+      <li><a href="/cennik-implantologii-opole">Cennik implantologii</a></li>
+      <li><a href="/klinika-implantologii-opole">Klinika</a></li>
+      <li><a href="/blog">Blog</a></li>
+    </ul>
+    <p>
+      Konsultacja w klinice → <a href="https://mikrostomart.pl/rezerwacja" rel="noopener">Mikrostomart.pl/rezerwacja</a>
+    </p>
+  </div>
+</BaseLayout>
+
+<style>
+  .error-page { max-width: 36rem; text-align: center; padding: 4rem 1.5rem; }
+  .big-number { font-family: var(--font-display); font-size: 8rem; color: var(--color-accent); line-height: 1; margin: 0; opacity: 0.6; font-weight: 800; }
+  .error-page h1 { font-size: 2rem; margin-top: 0; }
+  .lead { font-size: 1.125rem; color: var(--color-muted); }
+  .nav-suggestions { list-style: none; padding: 0; display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0; }
+  .nav-suggestions a { font-weight: 600; }
+</style>
