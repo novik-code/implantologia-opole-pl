@@ -1,7 +1,7 @@
 ---
 title: 'Gojenie po implancie — zalecenia, dieta, harmonogram'
 description: 'Co robić po wszczepieniu implantu zęba — pierwsze 24h, 72h, tydzień, miesiąc. Dieta, leki, higiena, kontrole. Pełen przewodnik po-zabiegowy implantologii.'
-pubDate: 2026-05-26
+pubDate: 2026-04-13
 category: implanty-podstawy
 tags: [gojenie, po-zabiegu, dieta, zalecenia, osteointegracja]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Periimplantitis — leczenie laserem Er:YAG / Nd:YAG, protokół premium'
 description: 'Periimplantitis — zapalenie wokół implantu. Leczenie laserem Er:YAG i Nd:YAG (Fotona) eliminuje biofilm bez uszkadzania powierzchni implantu. Premium standard 2026. Cena 400-1500 PLN za stopień.'
-pubDate: 2026-05-26
+pubDate: 2026-05-11
 category: trudne-przypadki
 tags: [periimplantitis, laser, eryag, ndyag, fotona]
 draft: false

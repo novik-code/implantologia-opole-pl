@@ -1,7 +1,7 @@
 ---
 title: 'Most, implant czy proteza? Porównanie 3 metod uzupełnienia braku zęba'
 description: 'Most protetyczny, implant zęba, proteza ruchoma — porównanie 3 sposobów uzupełnienia braku. Cena, trwałość, komfort, wpływ na sąsiednie zęby. Pomoc w decyzji.'
-pubDate: 2026-05-26
+pubDate: 2026-05-03
 category: implanty-podstawy
 tags: [most, implant, proteza, porownanie, decyzja-pacjenta]
 draft: false

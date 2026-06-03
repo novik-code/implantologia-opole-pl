@@ -1,7 +1,7 @@
 ---
 title: 'All-on-4 vs most na implantach — co wybrać przy częściowych brakach'
 description: 'All-on-4 (pełen łuk) vs most na implantach (3-4 zęby) — kiedy która opcja, koszty, trwałość, komfort. Decyzja dla pacjenta z częściowymi brakami zębów.'
-pubDate: 2026-06-15
+pubDate: 2026-05-29
 category: all-on-x
 tags: [all-on-4, most-na-implantach, decyzja, czesciowe-braki]
 draft: false

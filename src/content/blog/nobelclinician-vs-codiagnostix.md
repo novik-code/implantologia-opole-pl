@@ -1,7 +1,7 @@
 ---
 title: 'NobelClinician vs coDiagnostiX — software cyfrowej implantologii'
 description: 'NobelClinician (Nobel Biocare) vs coDiagnostiX (Dental Wings/Straumann) — porównanie dwóch top platform cyfrowego planowania implantów. Software, szablony, drukarki 3D.'
-pubDate: 2026-05-26
+pubDate: 2026-05-07
 category: implanty-podstawy
 tags: [nobelclinician, codiagnostix, software, planowanie, cyfrowy]
 draft: false

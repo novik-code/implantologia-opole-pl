@@ -1,7 +1,7 @@
 ---
 title: 'Korona na implancie — cyrkonowa vs metaloceramiczna. Co wybrać w 2026'
 description: 'Korona cyrkonowa vs metaloceramiczna na implancie zęba. Estetyka, trwałość, cena, biokompatybilność, kiedy która. Porównanie materiałów koron protetycznych.'
-pubDate: 2026-05-26
+pubDate: 2026-05-01
 category: implanty-podstawy
 tags: [korona, cyrkon, metaloceramika, e-max, protetyka, estetyka]
 draft: false

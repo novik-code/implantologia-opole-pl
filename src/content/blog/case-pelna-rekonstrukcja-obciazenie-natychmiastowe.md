@@ -1,7 +1,7 @@
 ---
 title: 'Case report: pełna rekonstrukcja na implantach z obciążeniem natychmiastowym'
 description: 'Opis przypadku z kliniki Mikrostomart Opole — pełna odbudowa na implantach u aktywnego zawodowo pacjenta. Ekstrakcje, implanty natychmiastowe, sinus lift, obciążenie natychmiastowe, finalnie cyrkon przykręcany. Bez okresu bezzębia.'
-pubDate: 2026-06-18
+pubDate: 2026-06-02
 category: all-on-x
 tags: [case-report, obciazenie-natychmiastowe, implanty-natychmiastowe, cyrkon, sinus-lift, all-on-x]
 heroImage: /metamorfoza-usmiechu-case.jpg

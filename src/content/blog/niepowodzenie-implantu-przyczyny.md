@@ -1,7 +1,7 @@
 ---
 title: 'Niepowodzenie implantu — przyczyny, objawy, ratunek'
 description: 'Dlaczego implant zęba może się nie udać? Przyczyny niepowodzenia, objawy ostrzegawcze, jak ratować implant zagrożony. Reimplantacja po niepowodzeniu.'
-pubDate: 2026-05-26
+pubDate: 2026-05-05
 category: trudne-przypadki
 tags: [niepowodzenie, periimplantitis, reimplantacja, ratunek, problem]
 draft: false

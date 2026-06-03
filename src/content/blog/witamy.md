@@ -1,7 +1,7 @@
 ---
 title: 'Witaj na implantologia.opole.pl — przewodnik implantologii w Opolu'
 description: 'Wprowadzenie do serwisu. Co znajdziesz, dla kogo, kto jest autorem. Implantologia stomatologiczna premium w Opolu — Mikrostomart.'
-pubDate: 2026-05-26
+pubDate: 2026-05-23
 category: lokalne-opole
 tags: [implantologia, opole, wprowadzenie, mikrostomart]
 draft: false

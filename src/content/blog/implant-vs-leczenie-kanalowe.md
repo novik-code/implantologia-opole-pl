@@ -1,7 +1,7 @@
 ---
 title: 'Implant czy leczenie kanałowe? Kiedy ratować ząb, a kiedy go usunąć'
 description: 'Implant czy endodoncja? Kiedy warto walczyć o własny ząb leczeniem kanałowym, a kiedy lepiej go usunąć i postawić implant. Szanse powodzenia, koszty, długoterminowo.'
-pubDate: 2026-05-26
+pubDate: 2026-04-19
 category: implanty-podstawy
 tags: [implant, leczenie-kanalowe, endodoncja, decyzja, retreatment]
 draft: false

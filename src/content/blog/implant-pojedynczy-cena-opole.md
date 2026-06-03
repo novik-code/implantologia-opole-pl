@@ -1,7 +1,7 @@
 ---
 title: 'Pojedynczy implant zęba — cena Opole 2026. Co składa się na koszt'
 description: 'Ile kosztuje pojedynczy implant zęba w Opolu w 2026? Pełen rozkład ceny — implant, abutment, korona, dodatki. Porównanie cen Mikrostomart vs okolica.'
-pubDate: 2026-05-26
+pubDate: 2026-04-17
 category: lokalne-opole
 tags: [cena, implant, opole, koszt, cennik, rok-2026]
 draft: false

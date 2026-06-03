@@ -1,7 +1,7 @@
 ---
 title: 'Implant natychmiastowy vs klasyczny — głębokie porównanie'
 description: 'Implant natychmiastowy (w jednej wizycie z ekstrakcją) vs klasyczny (po 3-4 mies. gojenia). Success rate 92-96% vs 96-98%. Wskazania, ograniczenia, koszt 5500-8500 PLN vs 4500-7500.'
-pubDate: 2026-05-26
+pubDate: 2026-04-15
 category: implanty-podstawy
 tags: [implant-natychmiastowy, klasyczny, porownanie, ekstrakcja]
 draft: false

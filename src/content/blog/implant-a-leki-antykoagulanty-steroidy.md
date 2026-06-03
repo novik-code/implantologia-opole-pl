@@ -1,7 +1,7 @@
 ---
 title: 'Implant a leki — antykoagulanty, sterydy, leki onkologiczne'
 description: 'Implant zęba u pacjenta na lekach — antykoagulanty, sterydy, leki onkologiczne, immunosupresanty. Które wykluczają zabieg, które wymagają modyfikacji protokołu. Bezpieczeństwo.'
-pubDate: 2026-06-15
+pubDate: 2026-05-31
 category: trudne-przypadki
 tags: [leki, antykoagulanty, sterydy, immunosupresja, ryzyko]
 draft: false

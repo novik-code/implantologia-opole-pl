@@ -1,7 +1,7 @@
 ---
 title: 'Regeneracja sterowana (GBR) — protokół augmentacji kości'
 description: 'Guided Bone Regeneration (GBR) — sterowana regeneracja kości przy implantach. Bio-Oss + membrana Bio-Gide. Protokół, success rate 85-95%, cena 1500-3500 PLN.'
-pubDate: 2026-05-26
+pubDate: 2026-05-17
 category: augmentacja-kosci
 tags: [gbr, regeneracja, sterowana, augmentacja]
 draft: false

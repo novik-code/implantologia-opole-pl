@@ -1,7 +1,7 @@
 ---
 title: 'Implant w odcinku przednim — estetyka kluczowa, biotyp dziąsła'
 description: 'Implant siekacza / kła w odcinku przednim — najwyższe wymagania estetyczne. Cienki biotyp dziąsła, recesje, brodawka dziąsłowa, biały kolor. Premium protokół z DSD i mock-upem.'
-pubDate: 2026-05-26
+pubDate: 2026-04-23
 category: trudne-przypadki
 tags: [implant-przedni, estetyka, biotyp-dziasla, siekacz]
 draty: false

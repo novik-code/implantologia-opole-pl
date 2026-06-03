@@ -1,7 +1,7 @@
 ---
 title: 'Implanty zygomatyczne — gdy brak kości w szczęce jest skrajny'
 description: 'Implanty zygomatyczne — rozwiązanie dla pacjentów z drastycznym zanikiem kości w szczęce, gdy klasyczne implanty i augmentacja są niemożliwe. Wskazania, technika, ryzyka, koszty.'
-pubDate: 2026-06-01
+pubDate: 2026-05-27
 category: trudne-przypadki
 tags: [zygomatyczne, brak-kosci, all-on-x, chirurgia]
 draft: false

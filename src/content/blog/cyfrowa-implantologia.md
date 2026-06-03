@@ -1,7 +1,7 @@
 ---
 title: 'Cyfrowa implantologia — skan, plan, druk 3D, robot chirurgiczny'
 description: 'Cyfrowa implantologia 2026 — skaner Trios/iTero, software coDiagnostiX/NobelClinician, druk 3D, mini-roboty chirurgiczne. Eliminacja klasycznych wycisków, precyzja 0,5 mm.'
-pubDate: 2026-05-26
+pubDate: 2026-04-07
 category: implanty-podstawy
 tags: [cyfrowa-implantologia, trios, codiagnostix, druk-3d]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Szablon chirurgiczny 3D w implantologii — precyzja 0,5 mm'
 description: 'Szablon chirurgiczny 3D drukowany — prowadzi wiertło z dokładnością 0,5 mm. Eliminuje błędy pozycjonowania implantu. Wymagany dla all-on-4 i implantów estetycznych. Cyfrowe planowanie coDiagnostiX, NobelClinician.'
-pubDate: 2026-05-26
+pubDate: 2026-05-21
 category: implanty-podstawy
 tags: [szablon-chirurgiczny, planowanie-cyfrowe, codiagnostix, nobelclinician]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Pierwsza konsultacja implantologiczna Opole — czego się spodziewać'
 description: 'Pierwsza wizyta u implantologa w Opolu — przebieg, CBCT, plan leczenia, ceny. Pełen przewodnik krok po kroku w Mikrostomart Opole.'
-pubDate: 2026-05-26
+pubDate: 2026-05-13
 category: lokalne-opole
 tags: [konsultacja, pierwsza-wizyta, opole, mikrostomart, plan-leczenia]
 draft: false

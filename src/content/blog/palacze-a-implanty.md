@@ -1,7 +1,7 @@
 ---
 title: 'Palacze a implanty zębowe — czy palacz może mieć implant?'
 description: 'Implanty u palaczy — ryzyko niepowodzenia, statystyki, co dzieje się z dziąsłami i kością. Czy trzeba rzucić palenie przed zabiegiem? E-papierosy a implanty.'
-pubDate: 2026-05-26
+pubDate: 2026-05-09
 category: trudne-przypadki
 tags: [palenie, papierosy, e-papieros, ryzyko, periimplantitis]
 draft: false

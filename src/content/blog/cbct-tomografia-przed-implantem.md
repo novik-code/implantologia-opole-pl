@@ -1,7 +1,7 @@
 ---
 title: 'CBCT przed implantem — dlaczego tomografia stożkowa jest obowiązkowa'
 description: 'CBCT (Cone Beam CT) to tomografia stożkowa stosowana w implantologii. Dlaczego bez niej nie powinno się wszczepiać implantu, ile kosztuje, jakie dawki promieniowania, jak interpretować obraz.'
-pubDate: 2026-05-26
+pubDate: 2026-04-05
 category: implanty-podstawy
 tags: [cbct, tomografia, diagnostyka, planowanie, dicom]
 draft: false

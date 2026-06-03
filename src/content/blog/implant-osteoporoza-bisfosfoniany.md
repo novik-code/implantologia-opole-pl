@@ -1,7 +1,7 @@
 ---
 title: 'Implant a osteoporoza i bisfosfoniany — czy można wszczepić?'
 description: 'Implanty u pacjentów z osteoporozą i biorących bisfosfoniany (Fosamax, kwas zoledronowy). Ryzyko martwicy kości (MRONJ/BRONJ), kiedy bezpiecznie, kiedy odraczać. Protokół.'
-pubDate: 2026-06-01
+pubDate: 2026-05-25
 category: trudne-przypadki
 tags: [osteoporoza, bisfosfoniany, mronj, ryzyko, denosumab]
 draft: false

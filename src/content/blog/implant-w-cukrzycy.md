@@ -1,7 +1,7 @@
 ---
 title: 'Implant zęba u cukrzyka — czy to bezpieczne? Ryzyka i protokół'
 description: 'Implanty u pacjentów z cukrzycą — kiedy to bezpieczne, co to znaczy HbA1c, jak przygotować pacjenta cukrzyka do implantacji. Ryzyka, powikłania, statystyki sukcesu.'
-pubDate: 2026-05-26
+pubDate: 2026-04-21
 category: trudne-przypadki
 tags: [cukrzyca, diabetes, hba1c, ryzyko, glikemia]
 draft: false
