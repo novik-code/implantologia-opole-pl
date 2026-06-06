@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "^(?:www\\.)?implanty-zebowe\\.opole\\.pl$" }],
+      "destination": "https://implantologia.opole.pl/implanty-zebowe-opole",
+      "permanent": true
+    }
+  ]
+}
