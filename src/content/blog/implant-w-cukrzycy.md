@@ -1,7 +1,7 @@
 ---
 title: 'Implant zęba u cukrzyka — czy to bezpieczne? Ryzyka i protokół'
 description: 'Implanty u pacjentów z cukrzycą — kiedy to bezpieczne, co to znaczy HbA1c, jak przygotować pacjenta cukrzyka do implantacji. Ryzyka, powikłania, statystyki sukcesu.'
-pubDate: 2026-04-21
+pubDate: 2026-02-16
 category: trudne-przypadki
 tags: [cukrzyca, diabetes, hba1c, ryzyko, glikemia]
 draft: false
@@ -200,6 +200,6 @@ W [Mikrostomart](https://mikrostomart.pl) protokół dla pacjentów z cukrzycą:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** [lek. dent. Marcin Nowosielski](/o-autorze), M.Sc. RWTH Aachen — implantolog — All-on-4 / All-on-6 w Opolu.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej. Decyzja o zabiegu — zawsze indywidualnie z lekarzem.

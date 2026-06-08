@@ -1,7 +1,7 @@
 ---
 title: 'Pojedynczy implant zęba — cena Opole 2026. Co składa się na koszt'
 description: 'Ile kosztuje pojedynczy implant zęba w Opolu w 2026? Pełen rozkład ceny — implant, abutment, korona, dodatki. Porównanie cen Mikrostomart vs okolica.'
-pubDate: 2026-04-17
+pubDate: 2026-02-05
 category: lokalne-opole
 tags: [cena, implant, opole, koszt, cennik, rok-2026]
 draft: false
@@ -223,6 +223,6 @@ Jeśli decydujesz się na implant → **290 zł zostaje wliczone** w cenę final
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog. Leczenie prowadzi w klinice [Mikrostomart](https://mikrostomart.pl) w Opolu.
 
 **Disclaimer:** Ceny mogą się zmieniać. Aktualny cennik: [mikrostomart.pl](https://mikrostomart.pl).

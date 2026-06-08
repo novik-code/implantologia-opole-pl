@@ -1,7 +1,7 @@
 ---
 title: 'Korona na implancie — przykręcana czy cementowana?'
 description: 'Korona na implancie — mocowanie przykręcane (screw-retained) vs cementowane. Różnice, zalety, wady, ryzyko cementu pod dziąsłem, serwisowanie. Co wybrać i dlaczego.'
-pubDate: 2026-06-03
+pubDate: 2026-05-09
 category: po-zabiegu
 tags: [korona-na-implancie, przykrecana, cementowana, protetyka]
 draft: false
@@ -92,6 +92,6 @@ Niezależnie od mocowania, między implantem a koroną jest **łącznik**:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku. Leczenie prowadzi w klinice [Mikrostomart](https://mikrostomart.pl) w Opolu.
 
 **Disclaimer:** Treści edukacyjne. Wybór typu mocowania zależy od indywidualnej sytuacji klinicznej.

@@ -1,7 +1,7 @@
 ---
 title: 'Niepowodzenie implantu — przyczyny, objawy, ratunek'
 description: 'Dlaczego implant zęba może się nie udać? Przyczyny niepowodzenia, objawy ostrzegawcze, jak ratować implant zagrożony. Reimplantacja po niepowodzeniu.'
-pubDate: 2026-05-05
+pubDate: 2026-03-11
 category: trudne-przypadki
 tags: [niepowodzenie, periimplantitis, reimplantacja, ratunek, problem]
 draft: false
@@ -281,6 +281,6 @@ W [Mikrostomart](https://mikrostomart.pl) protokół minimalizujący niepowodzen
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Konsultacja merytoryczna:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog — All-on-4 / All-on-6.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

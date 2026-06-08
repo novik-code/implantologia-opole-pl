@@ -1,7 +1,7 @@
 ---
 title: 'GBR — sterowana regeneracja kości przed wszczepieniem implantu'
 description: 'Sterowana regeneracja kości (GBR) — odbudowa kości pod implant przy jej niedoborze. Membrany, biomateriały, przebieg, czas gojenia. Jak GBR umożliwia implant tam, gdzie brakuje kości. Opole.'
-pubDate: 2026-06-06
+pubDate: 2026-05-26
 category: augmentacja-kosci
 tags: [gbr, regeneracja-kosci, augmentacja, membrana, implant]
 draft: false
@@ -63,6 +63,6 @@ GBR pozwala odbudować kość i wszczepić implant tam, gdzie wcześniej „się
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Konsultacja merytoryczna:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog.
 
 **Disclaimer:** Treści edukacyjne. Kwalifikacja i metoda augmentacji wymagają indywidualnej oceny i CBCT.

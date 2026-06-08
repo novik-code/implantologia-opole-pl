@@ -1,7 +1,7 @@
 ---
 title: 'Dental tourism z DACH do Opola — implanty 50-70% taniej'
 description: 'Dental tourism z Niemiec, Austrii, Szwajcarii do Opola — implanty Straumann premium 50-70% taniej niż w DACH. Pakiet z hotelem, transferem. Dr Marcin Nowosielski mówi po niemiecku (M.Sc. RWTH Aachen).'
-pubDate: 2026-04-11
+pubDate: 2026-01-22
 category: lokalne-opole
 tags: [dental-tourism, dach, niemcy, austria, dla-niemcow]
 draft: false

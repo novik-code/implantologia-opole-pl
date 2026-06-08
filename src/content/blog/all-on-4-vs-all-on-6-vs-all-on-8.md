@@ -1,7 +1,7 @@
 ---
 title: 'All-on-4 vs All-on-6 vs All-on-8 — który protokół najlepszy'
 description: 'All-on-4 vs all-on-6 vs all-on-8 — porównanie 3 koncepcji pełnołukowej implantologii. Liczba implantów, stabilność, cena 25-80 tys. PLN. Kiedy każdy ma sens.'
-pubDate: 2026-03-30
+pubDate: 2025-12-28
 category: all-on-x
 tags: [all-on-4, all-on-6, all-on-8, porownanie, pelen-luk]
 draft: false

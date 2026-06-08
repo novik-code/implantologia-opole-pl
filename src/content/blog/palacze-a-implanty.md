@@ -1,7 +1,7 @@
 ---
 title: 'Palacze a implanty zębowe — czy palacz może mieć implant?'
 description: 'Implanty u palaczy — ryzyko niepowodzenia, statystyki, co dzieje się z dziąsłami i kością. Czy trzeba rzucić palenie przed zabiegiem? E-papierosy a implanty.'
-pubDate: 2026-05-09
+pubDate: 2026-03-20
 category: trudne-przypadki
 tags: [palenie, papierosy, e-papieros, ryzyko, periimplantitis]
 draft: false
@@ -229,6 +229,6 @@ Jeśli **walczysz z paleniem** — implantologia jest **wspaniałym motywatorem*
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**O autorze:** lek. dent. Marcin Nowosielski (M.Sc. RWTH Aachen), implantolog — All-on-4 / All-on-6. [Więcej o autorze →](/o-autorze)
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

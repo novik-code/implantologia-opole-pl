@@ -1,7 +1,7 @@
 ---
 title: 'Most, implant czy proteza? Porównanie 3 metod uzupełnienia braku zęba'
 description: 'Most protetyczny, implant zęba, proteza ruchoma — porównanie 3 sposobów uzupełnienia braku. Cena, trwałość, komfort, wpływ na sąsiednie zęby. Pomoc w decyzji.'
-pubDate: 2026-05-03
+pubDate: 2026-03-08
 category: implanty-podstawy
 tags: [most, implant, proteza, porownanie, decyzja-pacjenta]
 draft: false
@@ -182,6 +182,6 @@ Na konsultacji zapytaj:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — specjalista implantologii. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

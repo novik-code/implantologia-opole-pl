@@ -1,7 +1,7 @@
 ---
 title: 'Implanty u seniorów — czy wiek ma znaczenie?'
 description: 'Implanty zębów u osób starszych — czy wiek jest przeciwwskazaniem, co naprawdę decyduje o powodzeniu (stan zdrowia, nie metryka), leki, gojenie. Implanty po 70. roku życia. Opole.'
-pubDate: 2026-06-03
+pubDate: 2026-05-11
 category: trudne-przypadki
 tags: [seniorzy, wiek, implanty, zdrowie-ogolne, jakosc-zycia]
 draft: false
@@ -122,6 +122,6 @@ Wiek **nie jest przeciwwskazaniem** do implantów. Decyduje stan zdrowia, leki i
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku.
 
 **Disclaimer:** Treści edukacyjne. Kwalifikacja wymaga indywidualnej oceny zdrowia ogólnego i CBCT.

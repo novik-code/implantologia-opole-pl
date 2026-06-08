@@ -1,7 +1,7 @@
 ---
 title: 'Sinus lift krok po kroku — otwarty vs zamknięty, czego się spodziewać'
 description: 'Sinus lift (podniesienie dna zatoki szczękowej) przed implantem: metoda zamknięta vs otwarta, wskazania, przebieg krok po kroku, gojenie, zalecenia po zabiegu, ryzyka. Przewodnik implantologa, Opole.'
-pubDate: 2026-06-07
+pubDate: 2026-06-01
 category: augmentacja-kosci
 tags: [sinus-lift, augmentacja, zatoka-szczekowa, implanty, przebieg]
 draft: false
@@ -77,6 +77,6 @@ Sinus lift to przewidywalny sposób na implant w górnym odcinku bocznym mimo ni
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Treści edukacyjne. Kwalifikacja i metoda wymagają indywidualnej oceny i CBCT.

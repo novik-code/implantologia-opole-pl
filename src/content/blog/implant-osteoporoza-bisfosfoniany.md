@@ -1,7 +1,7 @@
 ---
 title: 'Implant a osteoporoza i bisfosfoniany — czy można wszczepić?'
 description: 'Implanty u pacjentów z osteoporozą i biorących bisfosfoniany (Fosamax, kwas zoledronowy). Ryzyko martwicy kości (MRONJ/BRONJ), kiedy bezpiecznie, kiedy odraczać. Protokół.'
-pubDate: 2026-05-25
+pubDate: 2026-04-14
 category: trudne-przypadki
 tags: [osteoporoza, bisfosfoniany, mronj, ryzyko, denosumab]
 draft: false
@@ -144,6 +144,6 @@ Osteoporoza **sama w sobie nie wyklucza** implantów — wymaga ostrożności. *
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Treści edukacyjne. Decyzję o zabiegu zawsze podejmuj wspólnie z dentystą, endokrynologiem i lekarzem prowadzącym.

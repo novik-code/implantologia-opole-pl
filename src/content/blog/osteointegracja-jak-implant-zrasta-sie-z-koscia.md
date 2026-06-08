@@ -1,7 +1,7 @@
 ---
 title: 'Osteointegracja — jak implant zrasta się z kością i co może ją zaburzyć'
 description: 'Osteointegracja: na czym polega zrastanie implantu z kością, ile trwa, od czego zależy stabilizacja pierwotna i wtórna, jakie czynniki ją zaburzają (palenie, cukrzyca, przeciążenie). Podstawy dla pacjenta. Opole.'
-pubDate: 2026-06-08
+pubDate: 2026-06-06
 category: implanty-podstawy
 tags: [osteointegracja, stabilizacja, gojenie, biologia, implanty-podstawy]
 draft: false
@@ -69,6 +69,6 @@ Osteointegracja to zrastanie implantu z żywą kością — przechodzące od sta
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**O autorze:** lek. dent. Marcin Nowosielski (M.Sc. RWTH Aachen), implantolog — All-on-4 / All-on-6. [Więcej o autorze →](/o-autorze)
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji lekarskiej.

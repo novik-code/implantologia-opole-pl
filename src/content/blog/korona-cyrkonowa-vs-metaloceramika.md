@@ -1,7 +1,7 @@
 ---
 title: 'Korona na implancie — cyrkonowa vs metaloceramiczna. Co wybrać w 2026'
 description: 'Korona cyrkonowa vs metaloceramiczna na implancie zęba. Estetyka, trwałość, cena, biokompatybilność, kiedy która. Porównanie materiałów koron protetycznych.'
-pubDate: 2026-05-01
+pubDate: 2026-03-01
 category: implanty-podstawy
 tags: [korona, cyrkon, metaloceramika, e-max, protetyka, estetyka]
 draft: false
@@ -212,6 +212,6 @@ Niezależnie od materiału:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog i protetyk, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — specjalista implantologii. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

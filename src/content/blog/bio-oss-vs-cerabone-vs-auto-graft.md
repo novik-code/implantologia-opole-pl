@@ -1,7 +1,7 @@
 ---
 title: 'Bio-Oss vs Cerabone vs auto-graft — materiały augmentacyjne'
 description: 'Porównanie materiałów augmentacyjnych: Bio-Oss (gold standard), Cerabone, auto-graft (kość pacjenta), allograft. Cena, integracja, kiedy który materiał.'
-pubDate: 2026-04-03
+pubDate: 2026-01-04
 category: augmentacja-kosci
 tags: [bio-oss, cerabone, auto-graft, augmentacja, kosc]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Jak rozpoznać dobrego implantologa w Opolu — 10 kryteriów'
 description: 'Jak rozpoznać dobrego implantologa w Opolu — 10 obiektywnych kryteriów: Curriculum PSI/PTI, M.Sc., 500+ implantów w karierze, CBCT, szablon chirurgiczny, Straumann/Nobel, plan na piśmie.'
-pubDate: 2026-04-29
+pubDate: 2026-02-26
 category: lokalne-opole
 tags: [implantolog, opole, kryteria, wybor, premium]
 draft: false

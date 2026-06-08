@@ -1,7 +1,7 @@
 ---
 title: 'Implant czy leczenie kanałowe? Kiedy ratować ząb, a kiedy go usunąć'
 description: 'Implant czy endodoncja? Kiedy warto walczyć o własny ząb leczeniem kanałowym, a kiedy lepiej go usunąć i postawić implant. Szanse powodzenia, koszty, długoterminowo.'
-pubDate: 2026-04-19
+pubDate: 2026-02-12
 category: implanty-podstawy
 tags: [implant, leczenie-kanalowe, endodoncja, decyzja, retreatment]
 draft: false
@@ -195,6 +195,6 @@ Nigdy nie decyduj bez:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog i endodonta, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog — All-on-4 / All-on-6. Leczenie prowadzi w klinice [Mikrostomart](https://mikrostomart.pl) w Opolu.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

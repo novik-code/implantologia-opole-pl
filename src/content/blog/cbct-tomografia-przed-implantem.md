@@ -1,7 +1,7 @@
 ---
 title: 'CBCT przed implantem — dlaczego tomografia stożkowa jest obowiązkowa'
 description: 'CBCT (Cone Beam CT) to tomografia stożkowa stosowana w implantologii. Dlaczego bez niej nie powinno się wszczepiać implantu, ile kosztuje, jakie dawki promieniowania, jak interpretować obraz.'
-pubDate: 2026-04-05
+pubDate: 2026-01-10
 category: implanty-podstawy
 tags: [cbct, tomografia, diagnostyka, planowanie, dicom]
 draft: false
@@ -146,6 +146,6 @@ Każdy krok pominięty = większe ryzyko niepowodzenia.
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** [lek. dent. Marcin Nowosielski](/o-autorze), M.Sc. RWTH Aachen — specjalista implantologii w Opolu.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej.

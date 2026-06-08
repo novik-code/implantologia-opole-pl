@@ -1,7 +1,7 @@
 ---
 title: 'All-on-4 vs most na implantach — co wybrać przy częściowych brakach'
 description: 'All-on-4 (pełen łuk) vs most na implantach (3-4 zęby) — kiedy która opcja, koszty, trwałość, komfort. Decyzja dla pacjenta z częściowymi brakami zębów.'
-pubDate: 2026-05-29
+pubDate: 2026-04-24
 category: all-on-x
 tags: [all-on-4, most-na-implantach, decyzja, czesciowe-braki]
 draft: false
@@ -174,6 +174,6 @@ Decyzja indywidualna na bazie CBCT, oceny pozostałych zębów i Twoich preferen
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog — All-on-4 / All-on-6. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Treści edukacyjne. Decyzja o ścieżce leczenia wymaga oceny CBCT i indywidualnego planu.

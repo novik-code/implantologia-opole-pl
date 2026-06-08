@@ -1,7 +1,7 @@
 ---
 title: 'Implanty tytanowe vs cyrkonowe — pełne porównanie 2026'
 description: 'Implanty tytanowe (Straumann, Nobel) vs cyrkonowe (Z1, CeraRoot, NobelPearl) — porównanie biokompatybilności, estetyki, trwałości. Cena tytanu 2500-4500 PLN, cyrkonu 4000-7000 PLN.'
-pubDate: 2026-04-27
+pubDate: 2026-02-24
 category: implanty-podstawy
 tags: [tytan, cyrkon, implanty, materialy, porownanie]
 draft: false

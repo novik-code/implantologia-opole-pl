@@ -1,7 +1,7 @@
 ---
 title: 'Augmentacja blokowa (auto-graft z bródki) — pełen protokół'
 description: 'Augmentacja blokowa z auto-graft (kość własna pacjenta z bródki/kąta żuchwy). Dla dużych ubytków szerokości kości. Cena 3000-6000 PLN, 4-6 mies. gojenia, premium standard dla trudnych przypadków.'
-pubDate: 2026-04-01
+pubDate: 2026-01-02
 category: augmentacja-kosci
 tags: [augmentacja-blokowa, auto-graft, brodka, ramus]
 draft: false

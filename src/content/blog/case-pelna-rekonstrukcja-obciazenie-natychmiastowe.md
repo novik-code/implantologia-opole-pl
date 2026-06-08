@@ -1,7 +1,7 @@
 ---
 title: 'Case report: pełna rekonstrukcja na implantach z obciążeniem natychmiastowym'
 description: 'Opis przypadku z kliniki Mikrostomart Opole — pełna odbudowa na implantach u aktywnego zawodowo pacjenta. Ekstrakcje, implanty natychmiastowe, sinus lift, obciążenie natychmiastowe, finalnie cyrkon przykręcany. Bez okresu bezzębia.'
-pubDate: 2026-06-02
+pubDate: 2026-05-03
 category: all-on-x
 tags: [case-report, obciazenie-natychmiastowe, implanty-natychmiastowe, cyrkon, sinus-lift, all-on-x]
 heroImage: /metamorfoza-usmiechu-case.jpg
@@ -98,6 +98,6 @@ Nowoczesna implantologia to nie „wstawienie implantów". To **kompleksowy proc
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — specjalista implantologii. Przyjmuje w [klinice Mikrostomart](https://mikrostomart.pl), Opole.
 
 **Disclaimer:** Opis przypadku ma charakter edukacyjny. Każdy przypadek wymaga indywidualnej oceny i planu leczenia opartego na diagnostyce (CBCT). Efekty leczenia są indywidualne.

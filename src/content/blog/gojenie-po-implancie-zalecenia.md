@@ -1,7 +1,7 @@
 ---
 title: 'Gojenie po implancie — zalecenia, dieta, harmonogram'
 description: 'Co robić po wszczepieniu implantu zęba — pierwsze 24h, 72h, tydzień, miesiąc. Dieta, leki, higiena, kontrole. Pełen przewodnik po-zabiegowy implantologii.'
-pubDate: 2026-04-13
+pubDate: 2026-01-28
 category: implanty-podstawy
 tags: [gojenie, po-zabiegu, dieta, zalecenia, osteointegracja]
 draft: false
@@ -212,6 +212,6 @@ Stosuj się do zaleceń, jedz miękko, nie pal, kontroluj się — i implant prz
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji medycznej. W razie wątpliwości — kontakt z kliniką.

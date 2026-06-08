@@ -1,7 +1,7 @@
 ---
 title: 'Czas leczenia implantologicznego — od konsultacji do gotowego zęba'
 description: 'Ile trwa leczenie implantologiczne: implant prosty 4-6 mies., z sinus lift 8-12 mies., all-on-4 6-9 mies. Szczegółowy harmonogram wizyt, etapów osteointegracji.'
-pubDate: 2026-04-09
+pubDate: 2026-01-15
 category: implanty-podstawy
 tags: [czas-leczenia, etapy, osteointegracja, harmonogram]
 draft: false

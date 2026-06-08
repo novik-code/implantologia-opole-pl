@@ -1,7 +1,7 @@
 ---
 title: 'Implant a leki — antykoagulanty, sterydy, leki onkologiczne'
 description: 'Implant zęba u pacjenta na lekach — antykoagulanty, sterydy, leki onkologiczne, immunosupresanty. Które wykluczają zabieg, które wymagają modyfikacji protokołu. Bezpieczeństwo.'
-pubDate: 2026-05-31
+pubDate: 2026-04-30
 category: trudne-przypadki
 tags: [leki, antykoagulanty, sterydy, immunosupresja, ryzyko]
 draft: false
@@ -192,6 +192,6 @@ Większość leków **nie wyklucza implantów**. Czerwone flagi: **bisfosfoniany
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Konsultacja merytoryczna:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku.
 
 **Disclaimer:** Treści edukacyjne. Każdy przypadek wymaga indywidualnej oceny i konsultacji z lekarzami prowadzącymi.

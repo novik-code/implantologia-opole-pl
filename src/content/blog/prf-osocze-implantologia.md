@@ -1,7 +1,7 @@
 ---
 title: 'PRF (osocze bogatopłytkowe) w implantologii — metoda Choukrouna'
 description: 'PRF (Platelet-Rich Fibrin) w implantologii — z własnej krwi pacjenta. Wirówka Choukroun 12 min 2700 RPM. Przyspiesza gojenie 30-50%, zwiększa success rate implantu u palaczy.'
-pubDate: 2026-05-15
+pubDate: 2026-03-26
 category: implanty-podstawy
 tags: [prf, osocze, choukroun, gojenie, biostymulacja]
 draft: false

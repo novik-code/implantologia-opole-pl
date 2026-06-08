@@ -1,7 +1,7 @@
 ---
 title: 'Pierwsza konsultacja implantologiczna Opole — czego się spodziewać'
 description: 'Pierwsza wizyta u implantologa w Opolu — przebieg, CBCT, plan leczenia, ceny. Pełen przewodnik krok po kroku w Mikrostomart Opole.'
-pubDate: 2026-05-13
+pubDate: 2026-03-24
 category: lokalne-opole
 tags: [konsultacja, pierwsza-wizyta, opole, mikrostomart, plan-leczenia]
 draft: false
@@ -296,6 +296,6 @@ Powiedz o tym przy umawianiu. Dostosujemy:
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog — All-on-4 / All-on-6.
 
 **Disclaimer:** Treści edukacyjne. Decyzja o leczeniu — zawsze indywidualnie z lekarzem.

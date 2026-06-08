@@ -1,7 +1,7 @@
 ---
 title: 'Straumann vs Nobel Biocare — który system implantów lepszy'
 description: 'Straumann vs Nobel Biocare — porównanie dwóch top systemów implantologii. Straumann BLT/BLX z SLActive vs Nobel Active/Replace. All-on-4 oryginał Nobel. Cena, success rate, kiedy który.'
-pubDate: 2026-05-19
+pubDate: 2026-04-04
 category: implanty-podstawy
 tags: [straumann, nobel-biocare, porownanie, implanty, premium]
 draft: false

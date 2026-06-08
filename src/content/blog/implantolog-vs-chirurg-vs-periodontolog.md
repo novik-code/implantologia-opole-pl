@@ -1,7 +1,7 @@
 ---
 title: 'Implantolog vs chirurg stomatologiczny vs periodontolog — kogo wybrać'
 description: 'Implantolog, chirurg stomatologiczny, periodontolog — różnice w kwalifikacjach. Kogo wybrać do implantu, augmentacji kości, sinus lift. Curriculum PSI/PTI vs specjalizacja.'
-pubDate: 2026-04-25
+pubDate: 2026-02-20
 category: lokalne-opole
 tags: [implantolog, chirurg-stomatologiczny, periodontolog, specjalizacje]
 draft: false

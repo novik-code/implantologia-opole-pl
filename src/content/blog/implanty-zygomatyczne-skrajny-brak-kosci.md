@@ -1,7 +1,7 @@
 ---
 title: 'Implanty zygomatyczne — gdy brak kości w szczęce jest skrajny'
 description: 'Implanty zygomatyczne — rozwiązanie dla pacjentów z drastycznym zanikiem kości w szczęce, gdy klasyczne implanty i augmentacja są niemożliwe. Wskazania, technika, ryzyka, koszty.'
-pubDate: 2026-05-27
+pubDate: 2026-04-21
 category: trudne-przypadki
 tags: [zygomatyczne, brak-kosci, all-on-x, chirurgia]
 draft: false
@@ -112,6 +112,6 @@ Implanty zygomatyczne to **chirurgia wysokiej specjalizacji** dla pacjentów ze 
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, implantologia pełnego łuku. Leczenie prowadzi w klinice [Mikrostomart](https://mikrostomart.pl) w Opolu.
 
 **Disclaimer:** Treści edukacyjne. Kwalifikacja do zabiegu wymaga oceny w specjalistycznym ośrodku.
