@@ -7,7 +7,7 @@ export const site = {
   shortTitle: 'Implantologia Opole',
   description:
     'Implantologia stomatologiczna w Opolu — implanty zębów, all-on-4, all-on-6, sinus lift, augmentacja kości. Sygnowane przez lek. dent. Marcina Nowosielskiego, M.Sc. RWTH Aachen, autora książki „Własny gabinet" (Czelej 2024). Przyjmowanie w klinice Mikrostomart Opole.',
-  ogImage: '/og-default.svg',
+  ogImage: '/og-default.png',
   locale: 'pl-PL',
   // Autor wszystkich treści — Marcin Nowosielski (kanoniczny ID na nowosielski.pl)
   // Ta sama tożsamość co FILAR 1, 2 i implant.opole.pl
