@@ -18,7 +18,7 @@ export const site = {
     honorificSuffix: 'M.Sc.',
     canonicalUrl: 'https://nowosielski.pl',
     canonicalId: 'https://nowosielski.pl/#person',
-    jobTitle: 'Lekarz dentysta, implantolog, M.Sc. RWTH Aachen',
+    jobTitle: 'Lekarz dentysta — implantolog, mikroskopowy endodonta, stomatologia estetyczna, M.Sc. RWTH Aachen',
     image: '/dr-marcin.webp',
     email: 'kontakt@nowosielski.pl',
   },
@@ -26,7 +26,7 @@ export const site = {
   // NAP musi być IDENTYCZNE we wszystkich miejscach online
   clinic: {
     name: 'Mikrostomart',
-    legalName: 'Mikrostomart — Klinika Stomatologii Premium',
+    legalName: 'ELMAR Sp. z o.o.',
     url: 'https://mikrostomart.pl',
     bookingUrl: 'https://mikrostomart.pl/rezerwacja',
     implantPageUrl: 'https://mikrostomart.pl/oferta/implantologia',
