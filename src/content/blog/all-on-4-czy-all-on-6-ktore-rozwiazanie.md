@@ -1,5 +1,5 @@
 ---
-title: 'All-on-4 czy All-on-6? Kiedy więcej implantów ma sens'
+title: 'All-on-4 czy All-on-6 w Opolu? Kiedy więcej implantów ma sens'
 description: 'All-on-4 vs All-on-6 — porównanie odbudowy bezzębnego łuku na 4 vs 6 implantach. Stabilność, koszt, wymagania kostne, dla kogo które rozwiązanie. Decyzja po CBCT. Opole.'
 pubDate: 2026-05-19
 category: all-on-x

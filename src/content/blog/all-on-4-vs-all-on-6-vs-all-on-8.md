@@ -1,13 +1,15 @@
 ---
-title: 'All-on-4 vs All-on-6 vs All-on-8 — który protokół najlepszy'
-description: 'All-on-4 vs all-on-6 vs all-on-8 — porównanie 3 koncepcji pełnołukowej implantologii. Liczba implantów, stabilność, cena 25-80 tys. PLN. Kiedy każdy ma sens.'
+title: 'All-on-4, All-on-6, All-on-8 w Opolu — który protokół wybrać'
+description: 'Który protokół pełnołukowy wybrać — All-on-4, All-on-6 czy All-on-8? Porównanie, wskazania i orientacyjny cennik dla pacjentów z Opola i regionu. Kwalifikacja na CBCT.'
 pubDate: 2025-12-28
 category: all-on-x
 tags: [all-on-4, all-on-6, all-on-8, porownanie, pelen-luk]
 draft: false
 ---
 
-**All-on-4, all-on-6, all-on-8** — trzy koncepcje pełnołukowej implantologii. Im więcej implantów, tym wyższa stabilność, ale wyższa cena. Pełne porównanie kiedy która opcja ma sens.
+**All-on-4, All-on-6, All-on-8** — trzy koncepcje pełnołukowej implantologii. Im więcej implantów, tym wyższa stabilność, ale wyższa cena. Poniżej porównanie i wskazania oraz orientacyjny **cennik dla Opola i regionu** — z myślą o pacjentach planujących leczenie w naszej klinice w Opolu.
+
+> **Szukasz ogólnego, krajowego porównania protokołów (bez kontekstu lokalnego)?** Zajrzyj do pełnego przewodnika: [All-on-4 vs All-on-6 vs All-on-8 — który protokół wybrać](https://zeby-w-jeden-dzien.pl/blog/all-on-4-vs-all-on-6-vs-all-on-8-ktory-protokol). Ten artykuł skupia się na **leczeniu w Opolu** — kwalifikacji na CBCT i lokalnym cenniku.
 
 ## Tabela porównawcza
 
