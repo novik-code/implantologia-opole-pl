@@ -4,7 +4,7 @@ description: 'Wprowadzenie do serwisu. Co znajdziesz, dla kogo, kto jest autorem
 pubDate: 2026-04-12
 category: lokalne-opole
 tags: [implantologia, opole, wprowadzenie, mikrostomart]
-draft: false
+draft: true
 ---
 
 Witaj na **implantologia.opole.pl** — niezależnym przewodniku pacjenta o **implantologii stomatologicznej w Opolu**.

@@ -76,7 +76,7 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
           </span>
           <div>
             <strong>Implantologia Opole</strong>
-            <span class="brand-sub">Implanty zębów premium · dr M. Nowosielski M.Sc.</span>
+            <span class="brand-sub">Implanty zębów premium · lek. dent. Marcin Nowosielski, M.Sc.</span>
           </div>
         </a>
         <nav aria-label="Główna nawigacja">
@@ -130,15 +130,6 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
             </ul>
           </div>
           <div>
-            <h3>O autorze</h3>
-            <ul>
-              <li><a href="/o-autorze">lek. dent. Marcin Nowosielski</a></li>
-              <li><a href="https://nowosielski.pl" rel="noopener">Blog osobisty: nowosielski.pl</a></li>
-              <li><a href="https://www.mikrostomart.pl/zespol/marcin-nowosielski" rel="noopener">Bio w klinice Mikrostomart</a></li>
-              <li><a href="https://czelej.com.pl/sklep/wlasny-gabinet-poradnik/" rel="noopener">Książka „Własny gabinet"</a></li>
-            </ul>
-          </div>
-          <div>
             <h3>Klinika konsultacyjna</h3>
             <address>
               <strong>Mikrostomart</strong><br />
@@ -156,6 +147,13 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
             <p>
               <a class="btn-outline" href={site.clinic.bookingUrl} rel="noopener">Rezerwacja wizyty</a>
             </p>
+            <h3 class="footer-subhead">O autorze</h3>
+            <ul>
+              <li><a href="/o-autorze">lek. dent. Marcin Nowosielski</a></li>
+              <li><a href="https://nowosielski.pl" rel="noopener">Blog osobisty: nowosielski.pl</a></li>
+              <li><a href="https://www.mikrostomart.pl/zespol/marcin-nowosielski" rel="noopener">Bio w klinice Mikrostomart</a></li>
+              <li><a href="https://czelej.com.pl/sklep/wlasny-gabinet-poradnik/" rel="noopener">Książka „Własny gabinet"</a></li>
+            </ul>
           </div>
         </div>
 
@@ -358,6 +356,7 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
       .footer-grid ul li { margin-bottom: 0.5rem; font-size: 0.9375rem; }
       .footer-grid p { font-size: 0.9375rem; }
       .footer-grid address { font-style: normal; font-size: 0.9375rem; line-height: 1.7; }
+      .footer-subhead { margin-top: 1.75rem; }
       .disclaimer {
         font-size: 0.8125rem;
         background: rgba(255,255,255,0.05);
