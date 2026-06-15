@@ -1,6 +1,6 @@
 ---
 title: 'Dental tourism z DACH do Opola — implanty 50-70% taniej'
-description: 'Dental tourism z Niemiec, Austrii, Szwajcarii do Opola — implanty Straumann premium 50-70% taniej niż w DACH. Pakiet z hotelem, transferem. Dr Marcin Nowosielski mówi po niemiecku (M.Sc. RWTH Aachen).'
+description: 'Dental tourism z Niemiec, Austrii, Szwajcarii do Opola — implanty Straumann premium 50-70% taniej niż w DACH. Pakiet z hotelem, transferem. lek. dent. Marcin Nowosielski mówi po niemiecku (M.Sc. RWTH Aachen).'
 pubDate: 2026-01-22
 category: lokalne-opole
 tags: [dental-tourism, dach, niemcy, austria, dla-niemcow]
@@ -54,7 +54,7 @@ draft: false
 
 #### Język niemiecki
 
-**Dr Marcin Nowosielski:**
+**lek. dent. Marcin Nowosielski:**
 - **M.Sc. RWTH Aachen** (Master of Science in Lasers in Dentistry, 2018-2021)
 - **Biegły niemiecki** (codzienne używanie z pacjentami DACH)
 - **Drugi w Polsce** z tym tytułem
@@ -176,7 +176,7 @@ Patrz: [Sprache Deutsch — wir bedienen Patienten aus Deutschland, Österreich,
 
 ## Wniosek
 
-**Dental tourism z DACH do Opola** to **mądra ekonomiczna decyzja** — 50-70% oszczędność przy identycznym standardzie premium. **Dr Marcin Nowosielski (M.Sc. RWTH Aachen)** = polskie ceny + niemiecka jakość + niemiecki język.
+**Dental tourism z DACH do Opola** to **mądra ekonomiczna decyzja** — 50-70% oszczędność przy identycznym standardzie premium. **lek. dent. Marcin Nowosielski (M.Sc. RWTH Aachen)** = polskie ceny + niemiecka jakość + niemiecki język.
 
 W mikrostomart.de (planowane) będzie pełna strona w języku niemieckim dla pacjentów DACH.
 

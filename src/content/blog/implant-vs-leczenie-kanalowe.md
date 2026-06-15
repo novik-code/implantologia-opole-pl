@@ -137,7 +137,7 @@ Patrz: [CBCT przed implantem](/blog/cbct-tomografia-przed-implantem)
 Jeśli implantolog mówi "ekstrakcja" — zapytaj endodontę. I odwrotnie.
 
 W klinice [Mikrostomart](https://mikrostomart.pl) Opole mamy **oba zespoły**:
-- **Endodoncję mikroskopową** (mikroskop ZEISS, dr Marcin Nowosielski)
+- **Endodoncję mikroskopową** (mikroskop ZEISS, lek. dent. Marcin Nowosielski)
 - **Implantologię** premium
 
 Decyzja podejmowana **wspólnie** — bez konfliktu interesów.

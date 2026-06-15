@@ -142,7 +142,7 @@ Premium klinika (np. **Mikrostomart**) ma:
 
 W Opolu kilku **premium implantologów** z Curriculum PSI lub M.Sc.:
 
-- **Mikrostomart** (ul. Centralna 33a) — dr Marcin Nowosielski M.Sc. RWTH Aachen, 15+ lat, 500+ implantów rocznie
+- **Mikrostomart** (ul. Centralna 33a) — lek. dent. Marcin Nowosielski M.Sc. RWTH Aachen, 15+ lat, 500+ implantów rocznie
 
 ### Kiedy do Wrocławia
 - **Implanty zygomatyczne** (niedostępne lokalnie)

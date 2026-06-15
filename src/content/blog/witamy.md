@@ -11,7 +11,7 @@ Witaj na **implantologia.opole.pl** — niezależnym przewodniku pacjenta o **im
 
 ## Czym różni się ten serwis od innych
 
-W ekosystemie eksperckich serwisów dr Marcina Nowosielskiego mamy 3 wzajemnie uzupełniające się strony:
+W ekosystemie eksperckich serwisów lek. dent. Marcina Nowosielskiego mamy 3 wzajemnie uzupełniające się strony:
 
 - **[implant.opole.pl](https://implant.opole.pl)** — szerszy przewodnik (implanty + cała stomatologia w Opolu)
 - **[implantologia.opole.pl](https://implantologia.opole.pl)** (tu jesteś) — **skupiona na implantologii** premium

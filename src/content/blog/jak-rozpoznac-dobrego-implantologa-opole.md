@@ -176,12 +176,12 @@ Premium implantolodzy w Opolu mają:
 
 W Opolu znajdujesz takie gabinety w okolicy centrum:
 
-- **Klinika Mikrostomart** (ul. Centralna 33a) — dr Marcin Nowosielski M.Sc. RWTH Aachen, 15+ lat praktyki implantologicznej, 500+ implantów rocznie, system Straumann + Nobel Biocare
+- **Klinika Mikrostomart** (ul. Centralna 33a) — lek. dent. Marcin Nowosielski M.Sc. RWTH Aachen, 15+ lat praktyki implantologicznej, 500+ implantów rocznie, system Straumann + Nobel Biocare
 - Sprawdzaj inne premium kliniki według **10 kryteriów** powyżej
 
 ## Dla pacjentów z DACH
 
-Dr Marcin Nowosielski mówi **biegle po niemiecku** (M.Sc. RWTH Aachen). Klinika Mikrostomart obsługuje **dental tourism** z Niemiec, Austrii, Szwajcarii — premium standard polski w cenie 50-70% niższej niż w DACH.
+lek. dent. Marcin Nowosielski mówi **biegle po niemiecku** (M.Sc. RWTH Aachen). Klinika Mikrostomart obsługuje **dental tourism** z Niemiec, Austrii, Szwajcarii — premium standard polski w cenie 50-70% niższej niż w DACH.
 
 ## Wniosek
 

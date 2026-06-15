@@ -3,7 +3,7 @@
 
 export const site = {
   url: 'https://implantologia.opole.pl',
-  title: 'Implantologia Opole — implanty zębów premium, dr Marcin Nowosielski',
+  title: 'Implantologia Opole — implanty zębów premium, lek. dent. Marcin Nowosielski',
   shortTitle: 'Implantologia Opole',
   description:
     'Implantologia stomatologiczna w Opolu — implanty zębów, all-on-4, all-on-6, sinus lift, augmentacja kości. Sygnowane przez lek. dent. Marcina Nowosielskiego, M.Sc. RWTH Aachen, autora książki „Własny gabinet" (Czelej 2024). Przyjmowanie w klinice Mikrostomart Opole.',
