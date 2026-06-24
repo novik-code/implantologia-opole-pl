@@ -123,6 +123,17 @@ const latestPosts = allPosts.slice(0, 4);
     </section>
   )}
 
+  {allPosts.length > 4 && (
+    <section class="container more-articles">
+      <h2>Więcej artykułów o implantologii</h2>
+      <ul class="more-list">
+        {allPosts.slice(4).map((post) => (
+          <li><a href={`/blog/${post.id}`}>{post.data.title}</a></li>
+        ))}
+      </ul>
+    </section>
+  )}
+
   <section class="container author-box">
     <div class="author-grid">
       <div>
@@ -237,6 +248,12 @@ const latestPosts = allPosts.slice(0, 4);
   .see-all:hover { text-decoration: underline; }
 
   .latest-posts { margin-bottom: 4rem; }
+  .more-articles { margin-bottom: 4rem; }
+  .more-articles h2 { font-size: 1.375rem; margin-bottom: 1rem; }
+  .more-list { list-style: none; padding: 0; margin: 0; column-gap: 2.5rem; column-width: 22rem; }
+  .more-list li { margin-bottom: 0.5rem; font-size: 0.9375rem; break-inside: avoid; }
+  .more-list a { text-decoration: none; }
+  .more-list a:hover { text-decoration: underline; }
   .post-grid {
     list-style: none;
     padding: 0;
